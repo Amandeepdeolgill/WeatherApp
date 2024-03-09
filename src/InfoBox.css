@@ -3,4 +3,12 @@
     justify-content: center;
     text-align: center;
     margin-top: 1rem;
+    
 }
+
+.card {
+    width: 70%!important;
+    margin-bottom: 1rem;
+    color: rgb(22, 2, 36)!important;
+}
+

@@ -1,0 +1,10 @@
+.App {
+    color:rgb(22, 2, 36);
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-image: url("./background.jpg");
+    background-size: cover;
+    width: 100%;
+    font-weight: bold;
+}
